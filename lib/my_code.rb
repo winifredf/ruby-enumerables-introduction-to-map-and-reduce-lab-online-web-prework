@@ -26,4 +26,6 @@ end
 
 def any_true
   reduce_to_any_true([1, 2, 3])
+end
+
 # My Code here....
